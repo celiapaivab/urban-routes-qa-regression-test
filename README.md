@@ -51,7 +51,8 @@ Este projeto foi realizado como parte do curso de QA, focado em testes de regres
 
 ## 📁 Arquivos do Projeto
 
-- [`📄 Casos de Teste e Relatórios de Bug – Google Sheets`]([https://docs.google.com/spreadsheets/d/SEU-LINK-AQUI](https://docs.google.com/spreadsheets/d/1k0Wcr8GX_QeT-rChtnGLi_LHiRcq3p7N/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true))  
+[`📄 Casos de Teste e Relatórios de Bug – Google Sheets`](https://docs.google.com/spreadsheets/d/1k0Wcr8GX_QeT-rChtnGLi_LHiRcq3p7N/edit?usp=sharing&ouid=117698170295509867083&rtpof=true&sd=true)
+
 
 ---
 
